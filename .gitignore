@@ -1,0 +1,6 @@
+
+# OSC
+/.osc/
+/libwebsockets*.tar.gz
+/libwebsockets*.dsc
+/libwebsockets_*.debian.tar.xz
