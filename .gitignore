@@ -1,6 +1,14 @@
+# RPM build artifacts (Fedpkg)
+/libwebsockets-*.tar.gz
+/.build-*.log
+/i686/
+/x86_64/
+/libwebsockets-*/
+/libwebsockets-*.src.rpm
+
+# Debian build artifacts
+/libwebsockets_*.tar.gz
+/libwebsockets*.dsc
 
 # OSC
 /.osc/
-/libwebsockets*.tar.gz
-/libwebsockets*.dsc
-/libwebsockets_*.debian.tar.xz
