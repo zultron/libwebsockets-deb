@@ -14,6 +14,7 @@ Requires(postun): /sbin/ldconfig
 BuildRequires: zlib-devel
 BuildRequires: openssl-devel
 BuildRequires: cmake
+BuildRequires: g++
 
 %description
 C Websockets Server Library
