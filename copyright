@@ -61,7 +61,7 @@ Files:     lib/sha-1.c
 Copyright: (C) 1995, 1996, 1997, and 1998 WIDE Project.
 License:   BSD-3-WIDE
 
-Files:     README.test-apps
+Files:     README.test-apps.md
 Copyright: (C) 2010-2011 Andy Green <andy@warmcat.com>
 License:   LGPL-2.1
 
